@@ -1,0 +1,3 @@
+[submodule "wms-research-sample-repo"]
+	path = wms-research-sample-repo
+	url = git@github.com:innovative-code-m/wms-research-sample-repo.git
